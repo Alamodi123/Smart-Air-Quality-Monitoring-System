@@ -62,9 +62,15 @@ To ensure the system is "production-ready," it underwent rigorous testing phases
 
 ### 🏗️ System Architecture Diagram
 
-![System Architecture Diagram](Images/System Architecture Diagram.png)
+![System Architecture Diagram](Images/SAD.png)
 
 ### 💻 Wokwi Simulation
 ![Wokwi Simulation](Images/Wokwi1.png)
 
+---
+## Team Members:
+
+* **Abdulrahman  Alamodi**
+* **Habiba Hassan Nur Hassan**
+* **Mohanad Dalol**
 ---
